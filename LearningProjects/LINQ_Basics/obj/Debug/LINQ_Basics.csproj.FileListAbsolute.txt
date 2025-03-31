@@ -1,0 +1,7 @@
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\bin\Debug\LINQ_Basics.exe.config
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\bin\Debug\LINQ_Basics.exe
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\bin\Debug\LINQ_Basics.pdb
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\obj\Debug\LINQ_Basics.csproj.AssemblyReference.cache
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\obj\Debug\LINQ_Basics.csproj.CoreCompileInputs.cache
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\obj\Debug\LINQ_Basics.exe
+C:\Users\адм\Desktop\Csharp\CSharp-Learning\LearningProjects\LINQ_Basics\obj\Debug\LINQ_Basics.pdb

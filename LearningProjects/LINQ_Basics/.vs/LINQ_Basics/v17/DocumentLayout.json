@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0430\u0434\u043C\\Desktop\\Csharp\\CSharp-Learning\\LearningProjects\\LINQ_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D225BD37-0B19-4047-8FF3-3434A36330C7}|LINQ_Basics.csproj|c:\\users\\\u0430\u0434\u043C\\desktop\\csharp\\csharp-learning\\learningprojects\\linq_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D225BD37-0B19-4047-8FF3-3434A36330C7}|LINQ_Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0434\u043C\\AppData\\Local\\Temp\\0c32e973-e3d1-4471-8438-a35883c4d4ce_Lessons.zip.4ce\\Lessons\\LinqPractic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0434\u043C\\Desktop\\Csharp\\CSharp-Learning\\LearningProjects\\LINQ_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0434\u043C\\Desktop\\Csharp\\CSharp-Learning\\LearningProjects\\LINQ_Basics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwE8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:34:41.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "61451b95-3cea-4e12-8fea-7dd327c84b3f",
+        "Display": 1,
+        "X": 583,
+        "Y": 164,
+        "Width": 1361,
+        "Height": 533,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0434\u043C\\AppData\\Local\\Temp\\0c32e973-e3d1-4471-8438-a35883c4d4ce_Lessons.zip.4ce\\Lessons\\LinqPractic\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0c32e973-e3d1-4471-8438-a35883c4d4ce_Lessons.zip.4ce\\Lessons\\LinqPractic\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0430\u0434\u043C\\AppData\\Local\\Temp\\0c32e973-e3d1-4471-8438-a35883c4d4ce_Lessons.zip.4ce\\Lessons\\LinqPractic\\Program.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0c32e973-e3d1-4471-8438-a35883c4d4ce_Lessons.zip.4ce\\Lessons\\LinqPractic\\Program.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:37:12.979Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
